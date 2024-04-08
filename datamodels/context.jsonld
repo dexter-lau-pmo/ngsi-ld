@@ -186,6 +186,8 @@
         "x1": "Terms:x1",
         "x2": "Terms:x2",
         "y1": "Terms:y1",
-        "y2": "Terms:y2"
+        "y2": "Terms:y2",
+        "BusStop":"https://schema.org/BusStop",
+        "BusStopCode":"https://schema.org/identifier"
     }
 }
