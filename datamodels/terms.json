@@ -6,5 +6,6 @@
     "x1": "The x coordinate of the first pair of points.",
     "x2": "The x coordinate of the second pair of points.",
     "y1": "The y coordinate of the first pair of points.",
-    "y2": "The y coordinate of the second pair of points."
+    "y2": "The y coordinate of the second pair of points.",
+    "t1": "Downlink for temp"
 }
