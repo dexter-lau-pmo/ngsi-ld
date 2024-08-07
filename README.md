@@ -37,4 +37,4 @@ As different context brokers have different endpoints or ports for services (i.e
 # Quickstart Run (Orion Broker):
 1. Clone this repository
 2. Run `cd ngsi-ld-deployment`
-3. docker compose -f orion.aio.yml up --build
+3. Run `docker compose -f orion.aio.yml up --build`
