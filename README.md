@@ -33,3 +33,8 @@ As different context brokers have different endpoints or ports for services (i.e
 3. Create a copy of the `.env.sample` file and rename it to `.env`. Edit the variables as needed.
 4. Run `docker-compose -f <filename> up --build`
 5. To stop the services, run `docker-compose -f <filename> stop`.
+
+# Quickstart Run (Orion Broker):
+1. Clone this repository
+2. Run `cd ngsi-ld-deployment`
+3. Run `docker compose -f orion.aio.yml up --build`
