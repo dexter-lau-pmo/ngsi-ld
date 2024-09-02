@@ -1,1 +1,1 @@
-docker compose -f orion.aio.yml up
+docker compose -f orion.aio.yml up --build
