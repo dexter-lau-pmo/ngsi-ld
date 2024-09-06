@@ -624,7 +624,8 @@
 	"variable": [
 		{
 			"key": "context-ld",
-			"value": "http://34.126.76.13/context.jsonld"
+			"value": "http://34.126.76.13/context.jsonld",
+			"disabled": true
 		},
 		{
 			"key": "gateway",
@@ -650,6 +651,11 @@
 			"value": "http://localhost:8026",
 			"type": "string",
 			"disabled": true
+		},
+		{
+			"key": "context-ld",
+			"value": "https://raw.githubusercontent.com/dexter-lau-pmo/ngsi-ld/main/datamodels/context.jsonld",
+			"type": "string"
 		}
 	]
 }
